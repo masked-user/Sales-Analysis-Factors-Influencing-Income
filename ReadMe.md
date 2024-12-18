@@ -33,6 +33,6 @@ The analysis conducted on the sales data yielded several valuable insights. Firs
 
 Based on the insights gained from this analysis, future research can be extended in several directions.
 
-Customer segmentation based on demographic and behavioral data can provide deeper insights into preferences and behaviors.
-Analyzing specific product categories, conducting market basket analysis, and calculating Customer Lifetime Value (CLV) can enhance understanding of sales dynamics and customer value.
-Advanced predictive modeling, competitive analysis, and ethical considerations should also be prioritized to ensure sustainable growth and ethical data practices in retail analytics.
+Customer segmentation based on demographic and behavioral data can provide deeper insights into preferences and behaviors. 
+Analyzing specific product categories, conducting market basket analysis, and calculating Customer Lifetime Value (CLV) can enhance understanding of sales dynamics and customer value. 
+Advanced predictive modeling, competitive analysis, and ethical considerations should also be prioritized to ensure sustainable growth and ethical data practices in retail analytics. 
