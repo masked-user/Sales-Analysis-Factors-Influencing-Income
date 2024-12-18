@@ -11,13 +11,13 @@ While these research works explore retail analytics and customer satisfaction us
 
 ## Research Questions
 
-Does gender influence the choice of product category purchased? Are there significant differences in the distribution of product line sales between genders?
+1. Does gender influence the choice of product category purchased? Are there significant differences in the distribution of product line sales between genders?
 
-How do sales performance and customer preferences vary across different branches? Is there a branch that consistently outperforms others in terms of Ratings or gross income?
+2. How do sales performance and customer preferences vary across different branches? Is there a branch that consistently outperforms others in terms of Ratings or gross income?
 
-Is there a significant difference in the average total sales among various payment methods? This will help us in improving the Payment method preffered by most Customers.
+3. Is there a significant difference in the average total sales among various payment methods? This will help us in improving the Payment method preffered by most Customers.
 
-How is the Gross income affected by the Rating , gender , type of customer , City , product line Payment Method etc.? This will let us know the features that gross income depend on.
+4. How is the Gross income affected by the Rating , gender , type of customer , City , product line Payment Method etc.? This will let us know the features that gross income depend on.
 
 Thus retail analytics is crucial for understanding customer behavior and preferences, impacting sales and profitability. This research aims to explore gender-based product choices, branch-specific sales, payment methods' impact, and factors influencing gross income , thus making an positive impact on customer satisfaction and profitability.
 
@@ -33,6 +33,9 @@ The analysis conducted on the sales data yielded several valuable insights. Firs
 
 Based on the insights gained from this analysis, future research can be extended in several directions.
 
-Customer segmentation based on demographic and behavioral data can provide deeper insights into preferences and behaviors. 
-Analyzing specific product categories, conducting market basket analysis, and calculating Customer Lifetime Value (CLV) can enhance understanding of sales dynamics and customer value. 
-Advanced predictive modeling, competitive analysis, and ethical considerations should also be prioritized to ensure sustainable growth and ethical data practices in retail analytics. 
+1. Customer segmentation based on demographic and behavioral data can provide deeper insights into preferences and behaviors. 
+
+2. Analyzing specific product categories, conducting market basket analysis, and calculating Customer Lifetime Value (CLV) can enhance understanding of sales dynamics and customer value. 
+
+3. Advanced predictive modeling, competitive analysis, and ethical considerations should also be prioritized to ensure sustainable growth and ethical data practices in retail analytics.
+
